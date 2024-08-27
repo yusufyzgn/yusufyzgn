@@ -1,10 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/64db6f0d5e1747af6c17712debff02df2e8ca47808096f4f1b3fa175f77c5711/68747470733a2f2f7777772e736b696c6c72656163746f722e696f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032342f30352f46756c6c2d537461636b2d446576656c6f7065722e6a7067)
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">A passionate Full Stack Developer from Turkey</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufyzgn&label=Profile%20views&color=0e75b6&style=flat" alt="yusufyzgn" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufyzgn" alt="yusufyzgn" /></a> </p>
+<h3 align="center">I'm a Freelance Software Developer.</h3>
 
 - 🌱 I’m currently learning **node.js**
 
